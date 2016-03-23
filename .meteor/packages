@@ -21,3 +21,5 @@ insecure                # Allow all DB writes from clients (for prototyping)
 react
 coffeescript
 twbs:bootstrap@=4.0.0-alpha.2
+kadira:flow-router
+kadira:react-layout
